@@ -35,11 +35,11 @@
 ![Sass](https://img.shields.io/badge/-Sass-000?&logo=Sass)
 ![C](https://img.shields.io/badge/-C-000?&logo=C)
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/niaz uddin abir" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="niaz uddin abir" height="30" width="40" /></a>
-<a href="https://fb.com/niaz uddin abir" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="niaz uddin abir" height="30" width="40" /></a>
-</p>
+### 📬 Find me at
+[![Github Badge](http://img.shields.io/badge/-Github-black?style=flat-square&logo=github&link=https://github.com/Defcon27/)](https://github.com/Defcon27/) 
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/hemanthkollipara/)](https://www.linkedin.com/in/hemanthkollipara)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:defcon.sentinal95@gmail.com)](mailto:defcon.sentinal95@gmail.com)
+
 
 
 
