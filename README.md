@@ -35,15 +35,15 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
 ![React](https://img.shields.io/badge/-React-000?&logo=React)
 ![Next.js](https://img.shields.io/badge/-Next.js-000?&logo=Next.js)
-![C](https://img.shields.io/badge/-C-000?&logo=C)
+![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-000?&logo=Tailwind%20CSS)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-000?&logo=TypeScript)
 ![Mongoose](https://img.shields.io/badge/-Mongoose-000?&logo=MongoDB)
 ![Express](https://img.shields.io/badge/-Express-000?&logo=Express)
-![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-000?&logo=Tailwind%20CSS)
 ![Firebase](https://img.shields.io/badge/-Firebase-000?&logo=Firebase)
 ![CSS](https://img.shields.io/badge/-CSS-000?&logo=CSS3)
 ![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=Node.js)
 ![Sass](https://img.shields.io/badge/-Sass-000?&logo=Sass)
+![C](https://img.shields.io/badge/-C-000?&logo=C)
 
 
 
