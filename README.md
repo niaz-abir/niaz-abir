@@ -29,24 +29,21 @@
 " alt="tailwind" width="40" height="40"/>  </p>
 </div>
 
-### Languages
+### Languages and Tools:
 
-![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
+
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
-![C](https://img.shields.io/badge/-C-000?&logo=C)
-![Java](https://img.shields.io/badge/-Java-000?&logo=Java&logoColor=007396)
-![TypeScript](https://img.shields.io/badge/-TypeScript-000?&logo=TypeScript)
-![C++](https://img.shields.io/badge/-C++-000?&logo=c%2b%2b&logoColor=00599C)
-![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL)
-![Swift](https://img.shields.io/badge/-Swift-000?&logo=Swift)
 ![React](https://img.shields.io/badge/-React-000?&logo=React)
 ![Next.js](https://img.shields.io/badge/-Next.js-000?&logo=Next.js)
+![C](https://img.shields.io/badge/-C-000?&logo=C)
+![TypeScript](https://img.shields.io/badge/-TypeScript-000?&logo=TypeScript)
 ![Mongoose](https://img.shields.io/badge/-Mongoose-000?&logo=MongoDB)
 ![Express](https://img.shields.io/badge/-Express-000?&logo=Express)
-![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
-![TypeScript](https://img.shields.io/badge/-TypeScript-000?&logo=TypeScript)
 ![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-000?&logo=Tailwind%20CSS)
 ![Firebase](https://img.shields.io/badge/-Firebase-000?&logo=Firebase)
+![CSS](https://img.shields.io/badge/-CSS-000?&logo=CSS3)
+![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=Node.js)
+![Sass](https://img.shields.io/badge/-Sass-000?&logo=Sass)
 
 
 
