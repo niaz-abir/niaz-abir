@@ -17,13 +17,6 @@
 
 - ⚡ Fun fact **I'm your personal humor curator, dedicated to keeping smiles abundant**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/niaz uddin abir" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="niaz uddin abir" height="30" width="40" /></a>
-<a href="https://fb.com/niaz uddin abir" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="niaz uddin abir" height="30" width="40" /></a>
-</p>
-
-
 
 ### Languages and Tools:
 
@@ -31,6 +24,7 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
 ![React](https://img.shields.io/badge/-React-000?&logo=React)
 ![Next.js](https://img.shields.io/badge/-Next.js-000?&logo=Next.js)
+![Redux](https://img.shields.io/badge/-Redux-000?&logo=Redux)
 ![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-000?&logo=Tailwind%20CSS)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-000?&logo=TypeScript)
 ![Mongoose](https://img.shields.io/badge/-Mongoose-000?&logo=MongoDB)
@@ -40,6 +34,12 @@
 ![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=Node.js)
 ![Sass](https://img.shields.io/badge/-Sass-000?&logo=Sass)
 ![C](https://img.shields.io/badge/-C-000?&logo=C)
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/niaz uddin abir" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="niaz uddin abir" height="30" width="40" /></a>
+<a href="https://fb.com/niaz uddin abir" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="niaz uddin abir" height="30" width="40" /></a>
+</p>
 
 
 
